@@ -1,4 +1,4 @@
-#testing jenkins
+Testing CI/CD (If the readme has this on the AWS machine it means CI/CD pipeline is working)
 # IT Jobs Watch Data
 
 ## Introduction
